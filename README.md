@@ -1,4 +1,4 @@
-# Movie Transcript Scraper using BeautifulSoup
+# Webscraping Movie Transcripts using BeautifulSoup
 
 This project is a Python-based web scraper designed to scrape movie transcripts from [Subslikescript.com](https://subslikescript.com), a website that hosts movie scripts and subtitles. The script fetches all movie transcripts that start with the letter 'A' and stores them locally as text files. The tool leverages `BeautifulSoup` for parsing HTML content and `requests` for sending HTTP requests.
 
